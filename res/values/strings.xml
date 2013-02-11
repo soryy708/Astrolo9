@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Astrolo9</string>
+    
+    <string name="credits1">Programming by Ivan Rubinson</string>
+    
+    <string name="credits2">Languages by wanted188</string>
+    
+    <string name="credits3">Special thanks to the owners of the graphics</string>
+    
+    <string name="selection_hint">My sign is:</string>
+    
+    <string name="calculation_button">Do magic!</string>
+    
+    <string name="instructions">Please select your astrological sign from the list, and press the button.\nThe application will tell you about your characteristics.</string>
+
+    <string name="title_activity_display_results">Results</string>
+
+    <string-array name="sign_names">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+
+	<string-array name="sign_summaries">
+		<item> <!-- Aries -->
+			Aries belongs to the element of fire. They are pioneering, confident, dynamic and quick-witted. Some may be selfish, impulsive, impatient, and daredevil.
+		</item>
+		<item> <!-- Taurus -->
+			Taurus belongs to the element of earth. They are reliable, warmhearted, loving, persistent, determined, placid and security loving. Some may be resentful, selfish and greedy.
+		</item>
+		<item> <!-- Gemini -->
+			Gemini belongs to the element of air. They are adaptable, versatile, witty, eloquent, youthful and lively. Some may be tense, inconsistent and cunning.
+		</item>
+		<item> <!-- Cancer -->
+			Cancer belongs to the element of water. They are emotional, shrewd, cautious and protective. Some may be clinging and touchy.
+		</item>
+		<item> <!-- Leo -->
+			Leo belongs to the element of fire. They are generous, creative, broad-minded, expansive and faithful. Some may be patronizing, bossy, interfering, dogmatic and intolerant.
+		</item>
+		<item> <!-- Virgo -->
+			Virgo belongs to the element of earth. They are modest, shy, meticulous, reliable, intelligent and analytical. Some may be fussy, overcritical, perfectionist and conservative.
+		</item>
+		<item> <!-- Libra -->
+			Libra belongs to the element of air. They are diplomatic, urbane, romantic, charming, easygoing, idealistic and quick to compromise. Some may be indecisive, changeable, gullible and flirtatious.
+		</item>
+		<item> <!-- Scorpio -->
+			Scorpio belongs to the element of water. They are determined, forceful, powerful, passionate, exciting and magnetic. Some may be resentful, compulsive, obsessive, secretive and obstinate.
+		</item>
+		<item> <!-- Sagittarius -->
+			Sagittarius belongs to the element of fire. They are optimistic, freedom-loving, jovial, honest, straightforward and philosophical. Some may be careless, irresponsible, superficial, tactless and restless.
+		</item>
+		<item> <!-- Capricorn -->
+			Capricorn belongs to the element of earth. They are prudent, ambitious, disciplined, careful and reserved. Some may be pessimistic, miserly and grudging.
+		</item>
+		<item> <!-- Aquarius -->
+			Aquarius belongs to the element of air. They are friendly, humanitarian, honest, loyal, original, inventive and independent. Some may be intractable, contrary, unpredictable and unemotional.
+		</item>
+		<item> <!-- Pisces -->
+			Pisces belongs to the element of water. They are compassionate, kind, selfless and spiritual. Some may be idealistic, secretive, vague, weak-willed, easily led and escapist.
+		</item>
+	</string-array>
+
+	<string-array name="element_summaries">
+		<item> <!-- Fire -->
+			Signs belonging to the element of fire are believed to be leaders, enthusiastic, rebellious and brave. May be hot-tempered.
+		</item>
+		<item> <!-- Earth -->
+			Signs belonging to the element of earth are are believed to be calm, practical, hard-working, brave, stable and patient. May be stubborn, possessive, short-sighted and harsh.
+		</item>
+		<item> <!-- Air -->
+			Signs belonging to the element of air are believed to be kind, intellectual, communicative and social. May be selfish, superficial and insensitive to emotion.
+		</item>
+		<item> <!-- Water -->
+			Signs belonging to the element of water are believed to be emotional, deep, nurturing, sympathetic, imaginative and intuitive. May be cold, moody, jealous, sentimental, sensitive and irrational.
+		</item>
+	</string-array>
+</resources>
